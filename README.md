@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on Single page application development
 - 📫 How to reach me: isabella.harun@outlook.com
-- 😄 Pronouns: She/here
+- 😄 Pronouns: She/her
 - ⚡ Fun fact: Love visiting countries
 
 <!---
